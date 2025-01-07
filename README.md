@@ -1,4 +1,4 @@
-# Integraton_pgsql_python_tableau_project
+# Integration_pgsql_python_tableau_project
 Data analytics project deals with PostgreSQL, Python and Tableau.
 Initially started by analysing the key outcomes from this project checking for datasets and downloading them from Kaggle
 Basic data manipulation with MS Excel.
